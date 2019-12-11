@@ -1,0 +1,77 @@
+{
+    "log": {
+        "level": "debug",
+        "filename": "log.log",
+        "max_bytes": 104857600,
+        "backup_count": 100
+    },
+    "mongo": {
+        "addr": "mongodb://huang:lsdDSLo*(923874@121.196.211.83:27017/admin?connect=direct"
+    },
+
+    "redis": {
+        "addr": "121.196.211.83:8081",
+        "password": "123456"
+    },
+
+
+
+    "server": {
+        "http": {
+            "domain": "spmp.zg118.com",
+            "port": "7779"
+        }
+    },
+
+    "influx": {
+        "addr": "http://121.199.53.195:8086",
+        "username": "recorder",
+        "password": "Powerbee!@#`12"
+    },
+
+    "jwt": {
+        "alg": "HS256",
+        "key": "G0qlt78emIJRCPVxbDuSOwhvHANciapr"
+    },
+
+    "nats": {
+        "addr": "nats://pwtest.zg118.com:4222",
+        "username": "test",
+        "password": "powerbee"
+    },
+    "nats_prefix": [
+        "server01",
+        "server02",
+        "server03",
+        "db"
+    ],
+
+    "filter_url": [
+        "/business/list",
+        "/bill/projectmonth",
+        "/zone/createamapport",
+        "/module/list",
+        "/project/modulepowerrate",
+        "/zone/list",
+        "/module/orgpower",
+        "/bill/project2",
+        "/bill/project",
+        "/modulestatistics/basepower"
+    ],
+    "messageip": {
+        "ip": "121.196.211.83"
+    },
+
+    "wx_mini_program":      {
+        "appid": "wx33ee5d8082cda7a5",
+        "secret": "cab50233d7b21f3debd08ad716721c8a",
+        "grant_type": "authorization_code"
+    },
+
+    "base_config":{
+        "wx_add_user":"true"
+    },
+    "project": {
+        "admins":    [ "18930180052"]
+    }
+}

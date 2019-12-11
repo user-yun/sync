@@ -1,0 +1,56 @@
+new
+
+CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.2.9
+--------------------
+GitHub Token: 3e0731c6c2bc26865ca21265552718e230a489e2
+GitHub Gist: e246631554ca4a9416cb2eaa4dec7e73
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  keybindings.json > keybindings.json
+  locale.json > locale.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  aessoft-class-autocomplete v0.1.0
+  auto-close-tag v0.5.6
+  auto-rename-tag v0.0.15
+  background v1.1.19
+  background-cover v1.5.2
+  beautify v1.5.0
+  bracket-pair-colorizer v1.0.61
+  code-runner v0.9.10
+  code-settings-sync v3.2.9
+  color-info v0.5.1
+  debugger-for-chrome v4.11.3
+  docthis v0.7.1
+  html-snippets v0.2.1
+  HTMLHint v0.6.0
+  iview-snippets v0.2.1
+  npm-intellisense v1.3.0
+  path-autocomplete v1.13.3
+  path-intellisense v1.4.2
+  vetur v0.21.0
+  vscode-colorize v0.8.10
+  vscode-element-helper v0.5.6
+  vscode-elm-jump v0.0.1
+  vscode-html-css v0.2.0
+  vscode-icons v8.6.0
+  vscode-javascript-snippet-pack v0.1.5
+  vscode-language-pack-zh-hans v1.34.2
+  vscode-npm-script v0.3.7
+  vscode-standardjs v1.2.3
+  vue-beautify v2.0.4
+  vuehelper v0.1.0
+--------------------
+Done.
